@@ -1,0 +1,104 @@
+{
+  "_meta": {
+    "language": "עברית",
+    "code": "he",
+    "direction": "rtl",
+    "completeness": 100
+  },
+  "ui": {
+    "menu": {
+      "title": "תפריט אימוטים",
+      "search_placeholder": "חיפוש אימוט",
+      "favourite": "מועדף",
+      "exit": "יציאה",
+      "favourite_emotes": "אימוטים מועדפים",
+      "empty": "ריק",
+      "default": "ברירת מחדל"
+    },
+    "buttons": {
+      "enable_preview": "הפעלת תצוגה מקדימה",
+      "disable_preview": "כיבוי תצוגה מקדימה (ביצועים)",
+      "reset_walk": "איפוס סגנון הליכה",
+      "reset_expression": "איפוס הבעה",
+      "pause_animation": "השהיית אנימציה",
+      "accept": "אישור",
+      "cancel": "ביטול",
+      "accept_prev": "אישור",
+      "cancel_prev": "ביטול",
+      "enable_emotes_preview": "הפעלת תצוגה מקדימה",
+      "disable_emotes_preview": "כיבוי תצוגה מקדימה (ביצועים)"
+    },
+    "controls": {
+      "movement": "תנועה",
+      "loop_animation": "חזרה על אנימציה",
+      "upper_body_anim": "אנימציה חלק עליון",
+      "rotation": "סיבוב",
+      "movement_prev": "תנועה",
+      "height_increase": "גובה +",
+      "height_decrease": "גובה -",
+      "height_up": "גובה +",
+      "height_down": "גובה -"
+    },
+    "categories": {
+      "all_emotes": "כל האימוטים",
+      "animal_emotes": "אימוטי חיות",
+      "consumable": "מתכלים",
+      "dance_emotes": "אימוטי ריקוד",
+      "dances": "ריקודים",
+      "emotes": "אימוטים",
+      "exits": "יציאות",
+      "expressions": "הבעות פנים",
+      "general": "כללי",
+      "prop_emotes": "אימוטים עם אביזרים",
+      "scenarios": "תרחישים",
+      "shared_dances": "ריקודים משותפים",
+      "shared_emotes": "אימוטים משותפים",
+      "walk_styles": "סגנונות הליכה"
+    },
+    "request": {
+      "from": "מאת"
+    }
+  },
+  "notifications": {
+    "gameplay": {
+      "cannot_play": "רגע! אתה לא יכול לבצע פעולות כרגע, חבר.",
+      "cannot_cancel": "רגע! לא יכול לבטל את האימוט הזה כרגע, בוס.",
+      "animal_error": "מה לעזאזל?! אתה חושב שאתה סוג של חיה? היה ריאלי!",
+      "empty_slot": "אין כאן כלום! החריץ המהיר הזה ריק כמו עיר רפאים.",
+      "request_rejected": "נדחה! הם לא מעוניינים במה שאתה מציע.",
+      "driving_error": "לא בזמן נהיגה! שמור את הידיים על ההגה, גיבור.",
+      "no_players_nearby": "אין שחקנים בקרבת מקום",
+      "not_valid_emote": "זה לא אימוט תקף, ידידי.",
+      "emote_cancelled": "האימוט בוטל",
+      "invalid_emote": "אנא ספק שם אימוט תקף.",
+      "no_nearby_player": "לא נמצא שחקן בקרבת מקום.",
+      "invalid_position": "מיקום לא תקף - לא ניתן למקם כאן.",
+      "too_far": "רחוק מדי ממיקום ההנחה."
+    },
+    "interruption": {
+      "restored": "חזרה לפעולה! ממשיך מאיפה שעצרת.",
+      "cancelled_damage": "אוי! זה כאב כמו גיהינום - האימוט הופסק!",
+      "cancelled_collision": "זהירות! הופלת ואיבדת מיקוד.",
+      "cancelled_explosion": "אלוהים! הפיצוץ הזה הפחיד אותי למוות!",
+      "cancelled_gunshots": "ירי! לרצפה - האימוט בוטל!",
+      "cancelled_crash": "תאונת דרכים! ההתנגשות הרועשת שברה את הריכוז שלך!",
+      "cancelled_general": "הופסק! משהו גרם לך לעצור."
+    },
+    "system": {
+      "dead": "אתה לא יכול להשתמש באימוטים בזמן שאתה מת!",
+      "in_combat": "אתה לא יכול להשתמש באימוטים במהלך קרב!",
+      "ragdolled": "אתה לא יכול להשתמש באימוטים בזמן שאתה מרופט!",
+      "getting_up": "אתה קם כרגע, אנא המתן!",
+      "swimming": "אתה לא יכול להשתמש באימוטים בזמן שחייה!",
+      "cancelled": "האימוט בוטל!",
+      "reset_walk": "סגנון ההליכה אופס!",
+      "reset_expression": "ההבעה אופסה!"
+    },
+    "validation": {
+      "invalid_emote": "אינו אימוט!",
+      "invalid_expression": "אינה הבעה!",
+      "invalid_walkstyle": "אינו סגנון הליכה!",
+      "invalid_animal": "אינו אימוט חיה!"
+    }
+  }
+}

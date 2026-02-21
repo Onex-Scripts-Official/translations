@@ -1,0 +1,104 @@
+{
+  "_meta": {
+    "language": "فارسی",
+    "code": "fa",
+    "direction": "rtl",
+    "completeness": 100
+  },
+  "ui": {
+    "menu": {
+      "title": "منوی حالت‌ها",
+      "search_placeholder": "جستجوی حالت",
+      "favourite": "مورد علاقه",
+      "exit": "خروج",
+      "favourite_emotes": "حالت‌های مورد علاقه",
+      "empty": "خالی",
+      "default": "پیش‌فرض"
+    },
+    "buttons": {
+      "enable_preview": "فعال‌سازی پیش‌نمایش حالت‌ها",
+      "disable_preview": "غیرفعال‌سازی پیش‌نمایش (عملکرد)",
+      "reset_walk": "بازنشانی سبک راه رفتن",
+      "reset_expression": "بازنشانی حالت چهره",
+      "pause_animation": "توقف انیمیشن",
+      "accept": "قبول",
+      "cancel": "لغو",
+      "accept_prev": "قبول",
+      "cancel_prev": "لغو",
+      "enable_emotes_preview": "فعال‌سازی پیش‌نمایش",
+      "disable_emotes_preview": "غیرفعال‌سازی پیش‌نمایش (عملکرد)"
+    },
+    "controls": {
+      "movement": "حرکت",
+      "loop_animation": "تکرار انیمیشن",
+      "upper_body_anim": "انیمیشن بالا تنه",
+      "rotation": "چرخش",
+      "movement_prev": "حرکت",
+      "height_increase": "ارتفاع +",
+      "height_decrease": "ارتفاع -",
+      "height_up": "ارتفاع +",
+      "height_down": "ارتفاع -"
+    },
+    "categories": {
+      "all_emotes": "همه حالت‌ها",
+      "animal_emotes": "حالت‌های حیوانی",
+      "consumable": "مصرفی",
+      "dance_emotes": "حالت‌های رقص",
+      "dances": "رقص‌ها",
+      "emotes": "حالت‌ها",
+      "exits": "خروج‌ها",
+      "expressions": "حالات چهره",
+      "general": "عمومی",
+      "prop_emotes": "حالت‌ها با اشیا",
+      "scenarios": "سناریوها",
+      "shared_dances": "رقص‌های مشترک",
+      "shared_emotes": "حالت‌های مشترک",
+      "walk_styles": "سبک‌های راه رفتن"
+    },
+    "request": {
+      "from": "از"
+    }
+  },
+  "notifications": {
+    "gameplay": {
+      "cannot_play": "صبر کن! الان نمی‌تونی هیچ کاری انجام بدی، رفیق.",
+      "cannot_cancel": "آروم باش! نمیشه این حالت رو الان لغو کرد، رئیس.",
+      "animal_error": "چه خبرته؟! فکر می‌کنی یه جور حیوونی؟ واقع‌بین باش!",
+      "empty_slot": "اینجا هیچی نیست! این جای سریع خالی مثل شهر متروکه است.",
+      "request_rejected": "رد شد! اونا علاقه‌ای به پیشنهاد شما ندارن.",
+      "driving_error": "وقت رانندگی نه! دستات رو روی فرمون نگه دار، قهرمان.",
+      "no_players_nearby": "بازیکنی در اطراف نیست",
+      "not_valid_emote": "این یه حالت معتبر نیست، دوست من.",
+      "emote_cancelled": "حالت لغو شد",
+      "invalid_emote": "لطفاً یک نام حالت معتبر وارد کنید.",
+      "no_nearby_player": "هیچ بازیکنی در اطراف پیدا نشد.",
+      "invalid_position": "موقعیت نامعتبر - امکان قرار دادن در اینجا نیست.",
+      "too_far": "خیلی دور از محل قرارگیری."
+    },
+    "interruption": {
+      "restored": "بازگشت به عمل! ادامه از جایی که رها کردی.",
+      "cancelled_damage": "آخ! خیلی دردناک بود - حالت قطع شد!",
+      "cancelled_collision": "مراقب باش! زده شدی و تمرکز رو از دست دادی.",
+      "cancelled_explosion": "وای! اون انفجار منو مرگ ترسوند!",
+      "cancelled_gunshots": "شلیک! بخواب زمین - حالت لغو شد!",
+      "cancelled_crash": "تصادف ماشین! اون تصادف بلند تمرکزت رو شکست!",
+      "cancelled_general": "قطع شد! یه چیزی باعث شد متوقف بشی."
+    },
+    "system": {
+      "dead": "نمی‌تونی وقتی مردی از حالت‌ها استفاده کنی!",
+      "in_combat": "نمی‌تونی توی جنگ از حالت‌ها استفاده کنی!",
+      "ragdolled": "نمی‌تونی وقتی افتادی از حالت‌ها استفاده کنی!",
+      "getting_up": "الان داری بلند می‌شی، لطفا صبر کن!",
+      "swimming": "نمی‌تونی وقت شنا از حالت‌ها استفاده کنی!",
+      "cancelled": "حالت لغو شد!",
+      "reset_walk": "سبک راه رفتن بازنشانی شد!",
+      "reset_expression": "حالت چهره بازنشانی شد!"
+    },
+    "validation": {
+      "invalid_emote": "یک حالت نیست!",
+      "invalid_expression": "یک حالت چهره نیست!",
+      "invalid_walkstyle": "یک سبک راه رفتن نیست!",
+      "invalid_animal": "یک حالت حیوانی نیست!"
+    }
+  }
+}

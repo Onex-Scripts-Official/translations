@@ -1,0 +1,104 @@
+{
+  "_meta": {
+    "language": "한국어",
+    "code": "ko",
+    "direction": "ltr",
+    "completeness": 100
+  },
+  "ui": {
+    "menu": {
+      "title": "이모트 메뉴",
+      "search_placeholder": "이모트 검색",
+      "favourite": "즐겨찾기",
+      "exit": "나가기",
+      "favourite_emotes": "즐겨찾기 이모트",
+      "empty": "비어있음",
+      "default": "기본값"
+    },
+    "buttons": {
+      "enable_preview": "이모트 미리보기 활성화",
+      "disable_preview": "미리보기 비활성화 (성능)",
+      "reset_walk": "걷기 스타일 초기화",
+      "reset_expression": "표정 초기화",
+      "pause_animation": "애니메이션 일시정지",
+      "accept": "수락",
+      "cancel": "취소",
+      "accept_prev": "수락",
+      "cancel_prev": "취소",
+      "enable_emotes_preview": "미리보기 활성화",
+      "disable_emotes_preview": "미리보기 비활성화 (성능)"
+    },
+    "controls": {
+      "movement": "이동",
+      "loop_animation": "애니메이션 반복",
+      "upper_body_anim": "상체 애니메이션",
+      "rotation": "회전",
+      "movement_prev": "이동",
+      "height_increase": "높이 +",
+      "height_decrease": "높이 -",
+      "height_up": "높이 +",
+      "height_down": "높이 -"
+    },
+    "categories": {
+      "all_emotes": "모든 이모트",
+      "animal_emotes": "동물 이모트",
+      "consumable": "소모품",
+      "dance_emotes": "춤 이모트",
+      "dances": "춤",
+      "emotes": "이모트",
+      "exits": "나가기",
+      "expressions": "표정",
+      "general": "일반",
+      "prop_emotes": "소품 이모트",
+      "scenarios": "시나리오",
+      "shared_dances": "공유 춤",
+      "shared_emotes": "공유 이모트",
+      "walk_styles": "걷기 스타일"
+    },
+    "request": {
+      "from": "보낸이"
+    }
+  },
+  "notifications": {
+    "gameplay": {
+      "cannot_play": "잠깐! 지금은 어떤 동작도 수행할 수 없습니다, 친구.",
+      "cannot_cancel": "천천히! 지금은 그 이모트를 취소할 수 없습니다, 보스.",
+      "animal_error": "뭐야?! 네가 무슨 동물이라고 생각해? 현실적으로 생각해!",
+      "empty_slot": "아무것도 없어요! 이 빠른 슬롯은 유령 도시처럼 비어 있습니다.",
+      "request_rejected": "거부됨! 그들은 당신이 제공하는 것에 관심이 없습니다.",
+      "driving_error": "운전 중에는 안돼! 핸들에서 손을 떼지 마, 친구.",
+      "no_players_nearby": "근처에 플레이어가 없습니다",
+      "not_valid_emote": "그것은 유효한 이모트가 아닙니다, 친구.",
+      "emote_cancelled": "이모트가 취소되었습니다",
+      "invalid_emote": "유효한 이모트 이름을 입력해주세요.",
+      "no_nearby_player": "근처에 플레이어를 찾을 수 없습니다.",
+      "invalid_position": "잘못된 위치 - 여기에 배치할 수 없습니다.",
+      "too_far": "배치 위치에서 너무 멀리 있습니다."
+    },
+    "interruption": {
+      "restored": "다시 활동! 중단한 곳에서 계속합니다.",
+      "cancelled_damage": "아야! 정말 아팠어 - 이모트 중단됨!",
+      "cancelled_collision": "조심해! 부딪혀서 집중력을 잃었습니다.",
+      "cancelled_explosion": "이런! 그 폭발이 나를 죽을 만큼 놀라게 했어!",
+      "cancelled_gunshots": "총소리! 엎드려 - 이모트 취소됨!",
+      "cancelled_crash": "자동차 충돌! 그 큰 충돌이 당신의 집중력을 깼습니다!",
+      "cancelled_general": "중단됨! 무언가가 당신을 멈추게 했습니다."
+    },
+    "system": {
+      "dead": "죽었을 때는 이모트를 사용할 수 없습니다!",
+      "in_combat": "전투 중에는 이모트를 사용할 수 없습니다!",
+      "ragdolled": "래그돌 상태에서는 이모트를 사용할 수 없습니다!",
+      "getting_up": "현재 일어나고 있습니다, 기다려주세요!",
+      "swimming": "수영 중에는 이모트를 사용할 수 없습니다!",
+      "cancelled": "이모트 취소됨!",
+      "reset_walk": "걷기 스타일이 초기화되었습니다!",
+      "reset_expression": "표정이 초기화되었습니다!"
+    },
+    "validation": {
+      "invalid_emote": "는 이모트가 아닙니다!",
+      "invalid_expression": "는 표정이 아닙니다!",
+      "invalid_walkstyle": "는 걷기 스타일이 아닙니다!",
+      "invalid_animal": "는 동물 이모트가 아닙니다!"
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "_meta": {
+    "language": "Bulgarian",
+    "code": "bg"
+  },
+  "SCOREBOARD_JOB_STATUS_SECTION_HEADER": "СТАТУС НА РАБОТА",
+  "SCOREBOARD_JOB_STATUS_SECTION_SUB_HEADER": "ПРЕГЛЕД НА АКТИВНИЯ ПЕРСОНАЛ ЗА ВСЯКА КАТЕГОРИЯ РАБОТА",
+  "SCOREBOARD_ACTIVITY_SECTION_HEADER": "ДЕЙНОСТИ",
+  "SCOREBOARD_ACTIVITY_SECTION_SUB_HEADER": "РАЗГЛЕДАЙТЕ ВСИЧКИ НАЛИЧНИ В МОМЕНТА ДЕЙНОСТИ",
+  "SCOREBOARD_PLAYERLIST_SUB_HEADER": "ПРЕГЛЕД НА ВСИЧКИ ИГРАЧИ НА СЪРВЪРА И СПИСЪК НА НАПУСНАЛИТЕ",
+  "SCOREBOARD_PLAYERLIST_PLAYERS_BTN_TXT": "ИГРАЧИ",
+  "SCOREBOARD_PLAYERLIST_DROP_LIST_BTN_TXT": "СПИСЪК НА НАПУСНАЛИТЕ",
+  "SCOREBOARD_PLAYERLIST_ID_TXT": "ИД",
+  "SCOREBOARD_PLAYERLIST_PLAYTIME_TXT": "ВРЕМЕ НА ИГРА",
+  "SCOREBOARD_PLAYERLIST_BOTTOM_PLAYERS_PLAYING_TXT": "ИГРАЕЩИ ИГРАЧИ",
+  "SCOREBOARD_PLAYERLIST_DROPTIME_TXT": "ВРЕМЕ НА НАПУСКАНЕ"
+}

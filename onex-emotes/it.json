@@ -1,0 +1,104 @@
+{
+  "_meta": {
+    "language": "Italiano",
+    "code": "it",
+    "direction": "ltr",
+    "completeness": 100
+  },
+  "ui": {
+    "menu": {
+      "title": "MENU EMOTE",
+      "search_placeholder": "CERCA EMOTE",
+      "favourite": "PREFERITO",
+      "exit": "ESCI",
+      "favourite_emotes": "EMOTE PREFERITE",
+      "empty": "VUOTO",
+      "default": "PREDEFINITO"
+    },
+    "buttons": {
+      "enable_preview": "ABILITA ANTEPRIME EMOTE",
+      "disable_preview": "DISABILITA ANTEPRIME (PRESTAZIONI)",
+      "reset_walk": "Reimposta stile di camminata",
+      "reset_expression": "Reimposta espressione",
+      "pause_animation": "Pausa animazione",
+      "accept": "ACCETTA",
+      "cancel": "ANNULLA",
+      "accept_prev": "ACCETTA",
+      "cancel_prev": "ANNULLA",
+      "enable_emotes_preview": "ABILITA ANTEPRIME",
+      "disable_emotes_preview": "DISABILITA ANTEPRIME (PRESTAZIONI)"
+    },
+    "controls": {
+      "movement": "Movimento",
+      "loop_animation": "Ripeti animazione",
+      "upper_body_anim": "Anim parte superiore",
+      "rotation": "ROTAZIONE",
+      "movement_prev": "MOVIMENTO",
+      "height_increase": "ALTEZZA +",
+      "height_decrease": "ALTEZZA -",
+      "height_up": "ALTEZZA +",
+      "height_down": "ALTEZZA -"
+    },
+    "categories": {
+      "all_emotes": "TUTTE LE EMOTE",
+      "animal_emotes": "EMOTE ANIMALI",
+      "consumable": "CONSUMABILI",
+      "dance_emotes": "EMOTE DI BALLO",
+      "dances": "BALLI",
+      "emotes": "EMOTE",
+      "exits": "USCITE",
+      "expressions": "ESPRESSIONI",
+      "general": "GENERALE",
+      "prop_emotes": "EMOTE CON OGGETTI",
+      "scenarios": "SCENARI",
+      "shared_dances": "BALLI CONDIVISI",
+      "shared_emotes": "EMOTE CONDIVISE",
+      "walk_styles": "STILI DI CAMMINATA"
+    },
+    "request": {
+      "from": "DA"
+    }
+  },
+  "notifications": {
+    "gameplay": {
+      "cannot_play": "Aspetta! Non puoi eseguire nessuna azione al momento, amico.",
+      "cannot_cancel": "Piano! Non puoi annullare quella emote al momento, capo.",
+      "animal_error": "Ma cosa?! Pensi di essere un animale? Sii realistico!",
+      "empty_slot": "Niente qui! Questo slot rapido è vuoto come una città fantasma.",
+      "request_rejected": "Rifiutato! Non sono interessati a quello che offri.",
+      "driving_error": "Non mentre guidi! Tieni le mani sul volante, campione.",
+      "no_players_nearby": "Nessun giocatore nelle vicinanze",
+      "not_valid_emote": "Non è un'emote valida, amico mio.",
+      "emote_cancelled": "L'emote è stata annullata",
+      "invalid_emote": "Per favore fornisci un nome di emote valido.",
+      "no_nearby_player": "Nessun giocatore trovato nelle vicinanze.",
+      "invalid_position": "Posizione non valida - impossibile posizionare qui.",
+      "too_far": "Troppo lontano dalla posizione di posizionamento."
+    },
+    "interruption": {
+      "restored": "Ritorno all'azione! Continuando da dove ti eri fermato.",
+      "cancelled_damage": "Ahi! Ha fatto un male dell'inferno - emote interrotta!",
+      "cancelled_collision": "Attento! Sei stato urtato e hai perso la concentrazione.",
+      "cancelled_explosion": "Cavolo! Quell'esplosione mi ha spaventato a morte!",
+      "cancelled_gunshots": "Spari! A terra - emote annullata!",
+      "cancelled_crash": "Incidente d'auto! Quello schianto ha rotto la tua concentrazione!",
+      "cancelled_general": "Interrotto! Qualcosa ti ha fatto smettere."
+    },
+    "system": {
+      "dead": "Non puoi usare emote mentre sei morto!",
+      "in_combat": "Non puoi usare emote durante il combattimento!",
+      "ragdolled": "Non puoi usare emote mentre sei ragdolled!",
+      "getting_up": "Ti stai alzando, per favore aspetta!",
+      "swimming": "Non puoi usare emote mentre nuoti!",
+      "cancelled": "Emote annullata!",
+      "reset_walk": "Lo stile di camminata è stato reimpostato!",
+      "reset_expression": "L'espressione è stata reimpostata!"
+    },
+    "validation": {
+      "invalid_emote": "non è un'emote!",
+      "invalid_expression": "non è un'espressione!",
+      "invalid_walkstyle": "non è uno stile di camminata!",
+      "invalid_animal": "non è un'emote animale!"
+    }
+  }
+}

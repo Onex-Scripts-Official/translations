@@ -1,0 +1,104 @@
+{
+  "_meta": {
+    "language": "Português",
+    "code": "pt",
+    "direction": "ltr",
+    "completeness": 100
+  },
+  "ui": {
+    "menu": {
+      "title": "MENU DE EMOTES",
+      "search_placeholder": "PESQUISAR EMOTE",
+      "favourite": "FAVORITO",
+      "exit": "SAIR",
+      "favourite_emotes": "EMOTES FAVORITOS",
+      "empty": "VAZIO",
+      "default": "PADRÃO"
+    },
+    "buttons": {
+      "enable_preview": "ATIVAR VISUALIZAÇÕES DE EMOTES",
+      "disable_preview": "DESATIVAR VISUALIZAÇÕES (DESEMPENHO)",
+      "reset_walk": "Redefinir estilo de caminhada",
+      "reset_expression": "Redefinir expressão",
+      "pause_animation": "Pausar animação",
+      "accept": "ACEITAR",
+      "cancel": "CANCELAR",
+      "accept_prev": "ACEITAR",
+      "cancel_prev": "CANCELAR",
+      "enable_emotes_preview": "ATIVAR VISUALIZAÇÕES",
+      "disable_emotes_preview": "DESATIVAR VISUALIZAÇÕES (DESEMPENHO)"
+    },
+    "controls": {
+      "movement": "Movimento",
+      "loop_animation": "Repetir animação",
+      "upper_body_anim": "Anim parte superior",
+      "rotation": "ROTAÇÃO",
+      "movement_prev": "MOVIMENTO",
+      "height_increase": "ALTURA +",
+      "height_decrease": "ALTURA -",
+      "height_up": "ALTURA +",
+      "height_down": "ALTURA -"
+    },
+    "categories": {
+      "all_emotes": "TODOS OS EMOTES",
+      "animal_emotes": "EMOTES DE ANIMAIS",
+      "consumable": "CONSUMÍVEL",
+      "dance_emotes": "EMOTES DE DANÇA",
+      "dances": "DANÇAS",
+      "emotes": "EMOTES",
+      "exits": "SAÍDAS",
+      "expressions": "EXPRESSÕES",
+      "general": "GERAL",
+      "prop_emotes": "EMOTES COM OBJETOS",
+      "scenarios": "CENÁRIOS",
+      "shared_dances": "DANÇAS PARTILHADAS",
+      "shared_emotes": "EMOTES PARTILHADOS",
+      "walk_styles": "ESTILOS DE CAMINHADA"
+    },
+    "request": {
+      "from": "DE"
+    }
+  },
+  "notifications": {
+    "gameplay": {
+      "cannot_play": "Espera! Não podes realizar nenhuma ação agora, parceiro.",
+      "cannot_cancel": "Calma! Não é possível cancelar esse emote no momento, chefe.",
+      "animal_error": "O que raios?! Achas que és algum tipo de animal? Sê realista!",
+      "empty_slot": "Nada aqui! Este espaço rápido está vazio como uma cidade fantasma.",
+      "request_rejected": "Negado! Eles não estão interessados no que ofereces.",
+      "driving_error": "Não enquanto conduzes! Mantém as mãos no volante, campeão.",
+      "no_players_nearby": "Nenhum jogador por perto",
+      "not_valid_emote": "Isso não é um emote válido, meu amigo.",
+      "emote_cancelled": "O emote foi cancelado",
+      "invalid_emote": "Por favor fornece um nome de emote válido.",
+      "no_nearby_player": "Nenhum jogador encontrado por perto.",
+      "invalid_position": "Posição inválida - não é possível colocar aqui.",
+      "too_far": "Muito longe do local de colocação."
+    },
+    "interruption": {
+      "restored": "De volta à ação! Continuando de onde paraste.",
+      "cancelled_damage": "Ai! Isso doeu como o inferno - emote interrompido!",
+      "cancelled_collision": "Cuidado! Foste empurrado e perdeste a concentração.",
+      "cancelled_explosion": "Caramba! Aquela explosão assustou-me até à morte!",
+      "cancelled_gunshots": "Tiros! Ao chão - emote cancelado!",
+      "cancelled_crash": "Acidente de carro! Esse estrondo quebrou a tua concentração!",
+      "cancelled_general": "Interrompido! Algo fez-te parar."
+    },
+    "system": {
+      "dead": "Não podes usar emotes enquanto estás morto!",
+      "in_combat": "Não podes usar emotes durante o combate!",
+      "ragdolled": "Não podes usar emotes enquanto estás caído!",
+      "getting_up": "Estás a levantar-te, por favor aguarda!",
+      "swimming": "Não podes usar emotes enquanto nadas!",
+      "cancelled": "Emote cancelado!",
+      "reset_walk": "O estilo de caminhada foi redefinido!",
+      "reset_expression": "A expressão foi redefinida!"
+    },
+    "validation": {
+      "invalid_emote": "não é um emote!",
+      "invalid_expression": "não é uma expressão!",
+      "invalid_walkstyle": "não é um estilo de caminhada!",
+      "invalid_animal": "não é um emote de animal!"
+    }
+  }
+}

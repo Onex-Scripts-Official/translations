@@ -1,0 +1,104 @@
+{
+  "_meta": {
+    "language": "Français",
+    "code": "fr",
+    "direction": "ltr",
+    "completeness": 100
+  },
+  "ui": {
+    "menu": {
+      "title": "MENU D'EMOTES",
+      "search_placeholder": "RECHERCHER EMOTE",
+      "favourite": "FAVORI",
+      "exit": "QUITTER",
+      "favourite_emotes": "EMOTES FAVORIS",
+      "empty": "VIDE",
+      "default": "DÉFAUT"
+    },
+    "buttons": {
+      "enable_preview": "ACTIVER LES APERÇUS",
+      "disable_preview": "DÉSACTIVER LES APERÇUS (PERFORMANCE)",
+      "reset_walk": "Réinitialiser le Style de Marche",
+      "reset_expression": "Réinitialiser l'Expression",
+      "pause_animation": "Mettre en Pause",
+      "accept": "ACCEPTER",
+      "cancel": "ANNULER",
+      "accept_prev": "ACCEPTER",
+      "cancel_prev": "ANNULER",
+      "enable_emotes_preview": "ACTIVER APERÇUS",
+      "disable_emotes_preview": "DÉSACTIVER APERÇUS (PERFORMANCE)"
+    },
+    "controls": {
+      "movement": "Mouvement",
+      "loop_animation": "Répéter Animation",
+      "upper_body_anim": "Anim Haut du Corps",
+      "rotation": "ROTATION",
+      "movement_prev": "MOUVEMENT",
+      "height_increase": "HAUTEUR +",
+      "height_decrease": "HAUTEUR -",
+      "height_up": "HAUTEUR +",
+      "height_down": "HAUTEUR -"
+    },
+    "categories": {
+      "all_emotes": "TOUS LES EMOTES",
+      "animal_emotes": "EMOTES D'ANIMAUX",
+      "consumable": "CONSOMMABLE",
+      "dance_emotes": "EMOTES DE DANSE",
+      "dances": "DANSES",
+      "emotes": "EMOTES",
+      "exits": "SORTIES",
+      "expressions": "EXPRESSIONS",
+      "general": "GÉNÉRAL",
+      "prop_emotes": "EMOTES AVEC OBJETS",
+      "scenarios": "SCÉNARIOS",
+      "shared_dances": "DANSES PARTAGÉES",
+      "shared_emotes": "EMOTES PARTAGÉS",
+      "walk_styles": "STYLES DE MARCHE"
+    },
+    "request": {
+      "from": "DE"
+    }
+  },
+  "notifications": {
+    "gameplay": {
+      "cannot_play": "Attendez! Vous ne pouvez effectuer aucune action pour le moment, partenaire.",
+      "cannot_cancel": "Doucement! Impossible d'annuler cet emote pour le moment, chef.",
+      "animal_error": "Quoi?! Vous pensez être une sorte d'animal? Soyez réaliste!",
+      "empty_slot": "Rien ici! Cet emplacement rapide est vide comme une ville fantôme.",
+      "request_rejected": "Refusé! Ils ne sont pas intéressés par ce que vous offrez.",
+      "driving_error": "Pas en conduisant! Gardez vos mains sur le volant, champion.",
+      "no_players_nearby": "Aucun joueur à proximité",
+      "not_valid_emote": "Ce n'est pas un emote valide, mon ami.",
+      "emote_cancelled": "L'emote a été annulé",
+      "invalid_emote": "Veuillez fournir un nom d'emote valide.",
+      "no_nearby_player": "Aucun joueur trouvé à proximité.",
+      "invalid_position": "Position invalide - impossible de placer ici.",
+      "too_far": "Trop loin de l'emplacement de placement."
+    },
+    "interruption": {
+      "restored": "De retour en action! Reprise là où vous vous êtes arrêté.",
+      "cancelled_damage": "Aïe! Ça fait mal - emote interrompu!",
+      "cancelled_collision": "Attention! Vous avez été bousculé et avez perdu votre concentration.",
+      "cancelled_explosion": "Merde! Cette explosion m'a vraiment effrayé!",
+      "cancelled_gunshots": "Coups de feu! À terre - emote annulé!",
+      "cancelled_crash": "Accident de voiture! Ce crash a brisé votre concentration!",
+      "cancelled_general": "Interrompu! Quelque chose vous a fait arrêter."
+    },
+    "system": {
+      "dead": "Vous ne pouvez pas utiliser d'emotes pendant que vous êtes mort!",
+      "in_combat": "Vous ne pouvez pas utiliser d'emotes pendant un combat!",
+      "ragdolled": "Vous ne pouvez pas utiliser d'emotes en étant sonné!",
+      "getting_up": "Vous êtes en train de vous lever, veuillez patienter!",
+      "swimming": "Vous ne pouvez pas utiliser d'emotes en nageant!",
+      "cancelled": "Emote Annulé!",
+      "reset_walk": "Le style de marche a été réinitialisé!",
+      "reset_expression": "L'expression a été réinitialisée!"
+    },
+    "validation": {
+      "invalid_emote": "n'est pas un emote!",
+      "invalid_expression": "n'est pas une expression!",
+      "invalid_walkstyle": "n'est pas un style de marche!",
+      "invalid_animal": "n'est pas un emote d'animal!"
+    }
+  }
+}

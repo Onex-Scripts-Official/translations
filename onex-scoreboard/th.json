@@ -1,0 +1,17 @@
+{
+  "_meta": {
+    "language": "Thai",
+    "code": "th"
+  },
+  "SCOREBOARD_JOB_STATUS_SECTION_HEADER": "สถานะงาน",
+  "SCOREBOARD_JOB_STATUS_SECTION_SUB_HEADER": "ดูบุคลากรที่ทำงานอยู่สำหรับแต่ละหมวดหมู่งาน",
+  "SCOREBOARD_ACTIVITY_SECTION_HEADER": "กิจกรรม",
+  "SCOREBOARD_ACTIVITY_SECTION_SUB_HEADER": "เรียกดูกิจกรรมทั้งหมดที่มีอยู่ในขณะนี้",
+  "SCOREBOARD_PLAYERLIST_SUB_HEADER": "ดูผู้เล่นทั้งหมดในเซิร์ฟเวอร์และรายชื่อผู้ออก",
+  "SCOREBOARD_PLAYERLIST_PLAYERS_BTN_TXT": "ผู้เล่น",
+  "SCOREBOARD_PLAYERLIST_DROP_LIST_BTN_TXT": "รายชื่อผู้ออก",
+  "SCOREBOARD_PLAYERLIST_ID_TXT": "ไอดี",
+  "SCOREBOARD_PLAYERLIST_PLAYTIME_TXT": "เวลาเล่น",
+  "SCOREBOARD_PLAYERLIST_BOTTOM_PLAYERS_PLAYING_TXT": "ผู้เล่นที่กำลังเล่น",
+  "SCOREBOARD_PLAYERLIST_DROPTIME_TXT": "เวลาออก"
+}

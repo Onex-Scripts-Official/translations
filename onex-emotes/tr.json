@@ -1,0 +1,104 @@
+{
+  "_meta": {
+    "language": "Türkçe",
+    "code": "tr",
+    "direction": "ltr",
+    "completeness": 100
+  },
+  "ui": {
+    "menu": {
+      "title": "EMOTE MENÜSÜ",
+      "search_placeholder": "EMOTE ARA",
+      "favourite": "FAVORİ",
+      "exit": "ÇIKIŞ",
+      "favourite_emotes": "FAVORİ EMOTE'LAR",
+      "empty": "BOŞ",
+      "default": "VARSAYILAN"
+    },
+    "buttons": {
+      "enable_preview": "EMOTE ÖNİZLEMELERİNİ AKTİF ET",
+      "disable_preview": "ÖNİZLEMELERİ KAPALI (PERFORMANS)",
+      "reset_walk": "Yürüyüş stilini sıfırla",
+      "reset_expression": "İfadeyi sıfırla",
+      "pause_animation": "Animasyonu duraklat",
+      "accept": "KABUL ET",
+      "cancel": "İPTAL",
+      "accept_prev": "KABUL ET",
+      "cancel_prev": "İPTAL",
+      "enable_emotes_preview": "ÖNİZLEMELERİ AKTİF ET",
+      "disable_emotes_preview": "ÖNİZLEMELERİ KAPALI (PERFORMANS)"
+    },
+    "controls": {
+      "movement": "Hareket",
+      "loop_animation": "Animasyonu tekrarla",
+      "upper_body_anim": "Üst vücut anim",
+      "rotation": "DÖNÜŞ",
+      "movement_prev": "HAREKET",
+      "height_increase": "YÜKSEKLİK +",
+      "height_decrease": "YÜKSEKLİK -",
+      "height_up": "YÜKSEKLİK +",
+      "height_down": "YÜKSEKLİK -"
+    },
+    "categories": {
+      "all_emotes": "TÜM EMOTE'LAR",
+      "animal_emotes": "HAYVAN EMOTE'LARI",
+      "consumable": "TÜKETİLEBİLİR",
+      "dance_emotes": "DANS EMOTE'LARI",
+      "dances": "DANSLAR",
+      "emotes": "EMOTE'LAR",
+      "exits": "ÇIKIŞLAR",
+      "expressions": "İFADELER",
+      "general": "GENEL",
+      "prop_emotes": "EŞYA EMOTE'LARI",
+      "scenarios": "SENARYOLAR",
+      "shared_dances": "PAYLAŞILAN DANSLAR",
+      "shared_emotes": "PAYLAŞILAN EMOTE'LAR",
+      "walk_styles": "YÜRÜYÜŞ STİLLERİ"
+    },
+    "request": {
+      "from": "KİMDEN"
+    }
+  },
+  "notifications": {
+    "gameplay": {
+      "cannot_play": "Bekle! Şu anda herhangi bir eylem gerçekleştiremezsin, ortak.",
+      "cannot_cancel": "Sakin ol! O emote'u şu anda iptal edemezsin, şef.",
+      "animal_error": "Ne oluyor?! Bir tür hayvan olduğunu mu düşünüyorsun? Gerçekçi ol!",
+      "empty_slot": "Burada hiçbir şey yok! Bu hızlı yuva bir hayalet kasaba gibi boş.",
+      "request_rejected": "Reddedildi! Sunduğun şeyle ilgilenmiyorlar.",
+      "driving_error": "Sürerken olmaz! Ellerini direksiyonda tut, şampiyon.",
+      "no_players_nearby": "Yakınlarda oyuncu yok",
+      "not_valid_emote": "Bu geçerli bir emote değil, dostum.",
+      "emote_cancelled": "Emote iptal edildi",
+      "invalid_emote": "Lütfen geçerli bir emote adı girin.",
+      "no_nearby_player": "Yakınlarda oyuncu bulunamadı.",
+      "invalid_position": "Geçersiz konum - buraya yerleştirilemez.",
+      "too_far": "Yerleştirme konumundan çok uzak."
+    },
+    "interruption": {
+      "restored": "Tekrar harekete geç! Kaldığın yerden devam ediyorsun.",
+      "cancelled_damage": "Ah! Bu cehennem gibi acıttı - emote kesildi!",
+      "cancelled_collision": "Dikkat et! İtildin ve odağını kaybettin.",
+      "cancelled_explosion": "Lanet olsun! O patlama beni ölümüne korkuttu!",
+      "cancelled_gunshots": "Silah sesleri! Yere yat - emote iptal edildi!",
+      "cancelled_crash": "Araba kazası! O yüksek çarpışma konsantrasyonunu bozdu!",
+      "cancelled_general": "Kesildi! Bir şey durmanı sağladı."
+    },
+    "system": {
+      "dead": "Ölüyken emote kullanamazsın!",
+      "in_combat": "Savaş sırasında emote kullanamazsın!",
+      "ragdolled": "Ragdoll durumdayken emote kullanamazsın!",
+      "getting_up": "Şu anda kalkıyorsun, lütfen bekle!",
+      "swimming": "Yüzerken emote kullanamazsın!",
+      "cancelled": "Emote iptal edildi!",
+      "reset_walk": "Yürüyüş stili sıfırlandı!",
+      "reset_expression": "İfade sıfırlandı!"
+    },
+    "validation": {
+      "invalid_emote": "bir emote değil!",
+      "invalid_expression": "bir ifade değil!",
+      "invalid_walkstyle": "bir yürüyüş stili değil!",
+      "invalid_animal": "bir hayvan emote'u değil!"
+    }
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "_meta": {
+    "language": "Dansk",
+    "code": "da",
+    "direction": "ltr",
+    "completeness": 100
+  },
+  "ui": {
+    "menu": {
+      "title": "EMOTE MENU",
+      "search_placeholder": "SØG EMOTE",
+      "favourite": "FAVORIT",
+      "exit": "AFSLUT",
+      "favourite_emotes": "FAVORIT EMOTES",
+      "empty": "TOM",
+      "default": "STANDARD"
+    },
+    "buttons": {
+      "enable_preview": "AKTIVER EMOTE FORHÅNDSVISNINGER",
+      "disable_preview": "DEAKTIVER FORHÅNDSVISNINGER (YDEEVNE)",
+      "reset_walk": "Nulstil gåstil",
+      "reset_expression": "Nulstil udtryk",
+      "pause_animation": "Pause animation",
+      "accept": "ACCEPTER",
+      "cancel": "ANNULLER",
+      "accept_prev": "ACCEPTER",
+      "cancel_prev": "ANNULLER",
+      "enable_emotes_preview": "AKTIVER FORHÅNDSVISNINGER",
+      "disable_emotes_preview": "DEAKTIVER FORHÅNDSVISNINGER (YDEEVNE)"
+    },
+    "controls": {
+      "movement": "Bevægelse",
+      "loop_animation": "Gentag animation",
+      "upper_body_anim": "Overkrops anim",
+      "rotation": "ROTATION",
+      "movement_prev": "BEVÆGELSE",
+      "height_increase": "HØJDE +",
+      "height_decrease": "HØJDE -",
+      "height_up": "HØJDE +",
+      "height_down": "HØJDE -"
+    },
+    "categories": {
+      "all_emotes": "ALLE EMOTES",
+      "animal_emotes": "DYR EMOTES",
+      "consumable": "FORBRUGSVARER",
+      "dance_emotes": "DANSE EMOTES",
+      "dances": "DANSE",
+      "emotes": "EMOTES",
+      "exits": "EXITS",
+      "expressions": "UDTRYK",
+      "general": "GENERELT",
+      "prop_emotes": "PROP EMOTES",
+      "scenarios": "SCENARIER",
+      "shared_dances": "DELTE DANSE",
+      "shared_emotes": "DELTE EMOTES",
+      "walk_styles": "GÅSTILE"
+    },
+    "request": {
+      "from": "FRA"
+    }
+  },
+  "notifications": {
+    "gameplay": {
+      "cannot_play": "Vent! Du kan ikke udføre nogen handlinger lige nu, makker.",
+      "cannot_cancel": "Rolig nu! Kan ikke annullere den emote i øjeblikket, chef.",
+      "animal_error": "Hvad fanden?! Tror du, du er en slags dyr? Vær realistisk!",
+      "empty_slot": "Intet her! Denne hurtige slot er tom som en spøgelsesby.",
+      "request_rejected": "Afvist! De er ikke interesserede i hvad du tilbyder.",
+      "driving_error": "Ikke mens du kører! Hold hænderne på rattet, hotshot.",
+      "no_players_nearby": "Ingen spillere i nærheden",
+      "not_valid_emote": "Det er ikke en gyldig emote, min ven.",
+      "emote_cancelled": "Emoten blev annulleret",
+      "invalid_emote": "Angiv venligst et gyldigt emote-navn.",
+      "no_nearby_player": "Ingen spiller fundet i nærheden.",
+      "invalid_position": "Ugyldig position - kan ikke placeres her.",
+      "too_far": "For langt fra placeringsstedet."
+    },
+    "interruption": {
+      "restored": "Tilbage i action! Fortsætter hvor du slap.",
+      "cancelled_damage": "Av! Det gjorde pokkers ondt - emote afbrudt!",
+      "cancelled_collision": "Pas på! Blev slået rundt og mistede fokus.",
+      "cancelled_explosion": "Holy shit! Den eksplosion skræmte livet af mig!",
+      "cancelled_gunshots": "Skyderi! I dækning - emote annulleret!",
+      "cancelled_crash": "Bilulykke! Det høje brag brød din koncentration!",
+      "cancelled_general": "Afbrudt! Noget fik dig til at stoppe."
+    },
+    "system": {
+      "dead": "Du kan ikke bruge emotes mens du er død!",
+      "in_combat": "Du kan ikke bruge emotes mens du er i kamp!",
+      "ragdolled": "Du kan ikke bruge emotes mens du er ragdolled!",
+      "getting_up": "Du rejser dig i øjeblikket, vent venligst!",
+      "swimming": "Du kan ikke bruge emotes mens du svømmer!",
+      "cancelled": "Annulleret emote!",
+      "reset_walk": "Gåstil er blevet nulstillet!",
+      "reset_expression": "Udtryk er blevet nulstillet!"
+    },
+    "validation": {
+      "invalid_emote": "er ikke en emote!",
+      "invalid_expression": "er ikke et udtryk!",
+      "invalid_walkstyle": "er ikke en gåstil!",
+      "invalid_animal": "er ikke en dyre emote!"
+    }
+  }
+}

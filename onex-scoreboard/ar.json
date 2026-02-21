@@ -1,0 +1,17 @@
+{
+  "_meta": {
+    "language": "Arabic",
+    "code": "ar"
+  },
+  "SCOREBOARD_JOB_STATUS_SECTION_HEADER": "حالة الوظيفة",
+  "SCOREBOARD_JOB_STATUS_SECTION_SUB_HEADER": "عرض الموظفين النشطين لكل فئة وظيفية",
+  "SCOREBOARD_ACTIVITY_SECTION_HEADER": "الأنشطة",
+  "SCOREBOARD_ACTIVITY_SECTION_SUB_HEADER": "تصفح جميع الأنشطة المتاحة حاليًا",
+  "SCOREBOARD_PLAYERLIST_SUB_HEADER": "عرض جميع لاعبي الخادم وقائمة المغادرين",
+  "SCOREBOARD_PLAYERLIST_PLAYERS_BTN_TXT": "اللاعبين",
+  "SCOREBOARD_PLAYERLIST_DROP_LIST_BTN_TXT": "قائمة المغادرين",
+  "SCOREBOARD_PLAYERLIST_ID_TXT": "المعرف",
+  "SCOREBOARD_PLAYERLIST_PLAYTIME_TXT": "وقت اللعب",
+  "SCOREBOARD_PLAYERLIST_BOTTOM_PLAYERS_PLAYING_TXT": "اللاعبين النشطين",
+  "SCOREBOARD_PLAYERLIST_DROPTIME_TXT": "وقت المغادرة"
+}

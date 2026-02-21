@@ -1,0 +1,104 @@
+{
+  "_meta": {
+    "language": "日本語",
+    "code": "ja",
+    "direction": "ltr",
+    "completeness": 100
+  },
+  "ui": {
+    "menu": {
+      "title": "エモートメニュー",
+      "search_placeholder": "エモート検索",
+      "favourite": "お気に入り",
+      "exit": "終了",
+      "favourite_emotes": "お気に入りエモート",
+      "empty": "空",
+      "default": "デフォルト"
+    },
+    "buttons": {
+      "enable_preview": "エモートプレビューを有効化",
+      "disable_preview": "プレビューを無効化（パフォーマンス）",
+      "reset_walk": "歩行スタイルをリセット",
+      "reset_expression": "表情をリセット",
+      "pause_animation": "アニメーションを一時停止",
+      "accept": "決定",
+      "cancel": "キャンセル",
+      "accept_prev": "決定",
+      "cancel_prev": "キャンセル",
+      "enable_emotes_preview": "プレビューを有効化",
+      "disable_emotes_preview": "プレビューを無効化（パフォーマンス）"
+    },
+    "controls": {
+      "movement": "移動",
+      "loop_animation": "アニメーションループ",
+      "upper_body_anim": "上半身アニメ",
+      "rotation": "回転",
+      "movement_prev": "移動",
+      "height_increase": "高さ +",
+      "height_decrease": "高さ -",
+      "height_up": "高さ +",
+      "height_down": "高さ -"
+    },
+    "categories": {
+      "all_emotes": "すべてのエモート",
+      "animal_emotes": "動物エモート",
+      "consumable": "消耗品",
+      "dance_emotes": "ダンスエモート",
+      "dances": "ダンス",
+      "emotes": "エモート",
+      "exits": "退出",
+      "expressions": "表情",
+      "general": "一般",
+      "prop_emotes": "小道具エモート",
+      "scenarios": "シナリオ",
+      "shared_dances": "共有ダンス",
+      "shared_emotes": "共有エモート",
+      "walk_styles": "歩行スタイル"
+    },
+    "request": {
+      "from": "送信者"
+    }
+  },
+  "notifications": {
+    "gameplay": {
+      "cannot_play": "待って！今はアクションを実行できません、相棒。",
+      "cannot_cancel": "ちょっと待って！今はそのエモートをキャンセルできません、チーフ。",
+      "animal_error": "何だって！？あなたは何か動物だと思っているの？現実的になって！",
+      "empty_slot": "何もありません！このクイックスロットはゴーストタウンのように空です。",
+      "request_rejected": "拒否されました！彼らはあなたが提供しているものに興味がありません。",
+      "driving_error": "運転中はダメ！ハンドルから手を離さないで、熱血漢。",
+      "no_players_nearby": "近くにプレイヤーがいません",
+      "not_valid_emote": "それは有効なエモートではありません、友よ。",
+      "emote_cancelled": "エモートがキャンセルされました",
+      "invalid_emote": "有効なエモート名を入力してください。",
+      "no_nearby_player": "近くにプレイヤーが見つかりません。",
+      "invalid_position": "無効な位置 - ここには配置できません。",
+      "too_far": "配置場所から遠すぎます。"
+    },
+    "interruption": {
+      "restored": "復帰！中断したところから続行します。",
+      "cancelled_damage": "痛い！めちゃくちゃ痛かった - エモートが中断されました！",
+      "cancelled_collision": "気をつけて！ぶつかって集中力を失いました。",
+      "cancelled_explosion": "うわあ！その爆発は死ぬほど怖かった！",
+      "cancelled_gunshots": "銃声！伏せろ - エモートキャンセル！",
+      "cancelled_crash": "車の衝突！その大きな衝撃があなたの集中力を壊しました！",
+      "cancelled_general": "中断されました！何かがあなたを止めさせました。"
+    },
+    "system": {
+      "dead": "死亡中はエモートを使用できません！",
+      "in_combat": "戦闘中はエモートを使用できません！",
+      "ragdolled": "ラグドール状態ではエモートを使用できません！",
+      "getting_up": "現在起き上がっています、お待ちください！",
+      "swimming": "泳いでいる間はエモートを使用できません！",
+      "cancelled": "エモートがキャンセルされました！",
+      "reset_walk": "歩行スタイルがリセットされました！",
+      "reset_expression": "表情がリセットされました！"
+    },
+    "validation": {
+      "invalid_emote": "はエモートではありません！",
+      "invalid_expression": "は表情ではありません！",
+      "invalid_walkstyle": "は歩行スタイルではありません！",
+      "invalid_animal": "は動物エモートではありません！"
+    }
+  }
+}

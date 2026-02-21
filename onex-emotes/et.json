@@ -1,0 +1,104 @@
+{
+  "_meta": {
+    "language": "Eesti",
+    "code": "et",
+    "direction": "ltr",
+    "completeness": 100
+  },
+  "ui": {
+    "menu": {
+      "title": "EMOTE MENÜÜ",
+      "search_placeholder": "OTSI EMOTE'IT",
+      "favourite": "LEMMIK",
+      "exit": "VÄLJU",
+      "favourite_emotes": "LEMMIK EMOTE'ID",
+      "empty": "TÜHI",
+      "default": "VAIKIMISI"
+    },
+    "buttons": {
+      "enable_preview": "LUBA EMOTE EELVAATED",
+      "disable_preview": "KEELA EELVAATED (JÕUDLUS)",
+      "reset_walk": "Lähtesta kõnnistiil",
+      "reset_expression": "Lähtesta näoilme",
+      "pause_animation": "Peatage animatsioon",
+      "accept": "NÕUSTU",
+      "cancel": "TÜHISTA",
+      "accept_prev": "NÕUSTU",
+      "cancel_prev": "TÜHISTA",
+      "enable_emotes_preview": "LUBA EELVAATED",
+      "disable_emotes_preview": "KEELA EELVAATED (JÕUDLUS)"
+    },
+    "controls": {
+      "movement": "Liikumine",
+      "loop_animation": "Korda animatsiooni",
+      "upper_body_anim": "Ülaosa anim",
+      "rotation": "PÖÖRLEMINE",
+      "movement_prev": "LIIKUMINE",
+      "height_increase": "KÕRGUS +",
+      "height_decrease": "KÕRGUS -",
+      "height_up": "KÕRGUS +",
+      "height_down": "KÕRGUS -"
+    },
+    "categories": {
+      "all_emotes": "KÕIK EMOTE'ID",
+      "animal_emotes": "LOOMA EMOTE'ID",
+      "consumable": "TARBEKAUBAD",
+      "dance_emotes": "TANTSU EMOTE'ID",
+      "dances": "TANTSUD",
+      "emotes": "EMOTE'ID",
+      "exits": "VÄLJUMISED",
+      "expressions": "NÄOILMED",
+      "general": "ÜLDINE",
+      "prop_emotes": "REKVISIIDI EMOTE'ID",
+      "scenarios": "STSENAARIUMID",
+      "shared_dances": "JAGATUD TANTSUD",
+      "shared_emotes": "JAGATUD EMOTE'ID",
+      "walk_styles": "KÕNNISTIILID"
+    },
+    "request": {
+      "from": "KELLELT"
+    }
+  },
+  "notifications": {
+    "gameplay": {
+      "cannot_play": "Oota! Sa ei saa praegu ühtegi tegevust teha, partner.",
+      "cannot_cancel": "Rahulikult! Ei saa seda emote'it praegu tühistada, šeff.",
+      "animal_error": "Mis põrgus?! Kas sa arvad, et sa oled mingi loom? Ole realistlik!",
+      "empty_slot": "Siin pole midagi! See kiirpesa on tühi nagu kummituslinn.",
+      "request_rejected": "Keeldutud! Nad pole huvitatud sellest, mida pakud.",
+      "driving_error": "Mitte sõitmise ajal! Hoia käed roolil, hotshot.",
+      "no_players_nearby": "Läheduses pole mängijaid",
+      "not_valid_emote": "See ei ole kehtiv emote, mu sõber.",
+      "emote_cancelled": "Emote tühistati",
+      "invalid_emote": "Palun sisesta kehtiv emote nimi.",
+      "no_nearby_player": "Lähedusest ei leitud mängijat.",
+      "invalid_position": "Vigane asukoht - ei saa siia paigutada.",
+      "too_far": "Liiga kaugel paigutuskohast."
+    },
+    "interruption": {
+      "restored": "Tagasi tegevuses! Jätkan sealt, kus pooleli jäid.",
+      "cancelled_damage": "Aut! See tegi põrglikult haiget - emote katkestatud!",
+      "cancelled_collision": "Ettevaatust! Sind löödi ringi ja kaotasid fookuse.",
+      "cancelled_explosion": "Püha vägi! See plahvatus ehmutas mind surnuks!",
+      "cancelled_gunshots": "Tulirelvad! Maha - emote tühistatud!",
+      "cancelled_crash": "Autoõnnetus! See vali kokkupõrge murdis su keskendumisvõime!",
+      "cancelled_general": "Katkestatud! Midagi pani su peatuma."
+    },
+    "system": {
+      "dead": "Sa ei saa emote'id kasutada surnuna!",
+      "in_combat": "Sa ei saa emote'id kasutada lahingu ajal!",
+      "ragdolled": "Sa ei saa emote'id kasutada ragdoll'ina!",
+      "getting_up": "Sa tõused praegu üles, palun oota!",
+      "swimming": "Sa ei saa emote'id kasutada ujumise ajal!",
+      "cancelled": "Emote tühistatud!",
+      "reset_walk": "Kõnnistiil on lähtestatud!",
+      "reset_expression": "Näoilme on lähtestatud!"
+    },
+    "validation": {
+      "invalid_emote": "ei ole emote!",
+      "invalid_expression": "ei ole näoilme!",
+      "invalid_walkstyle": "ei ole kõnnistiil!",
+      "invalid_animal": "ei ole looma emote!"
+    }
+  }
+}

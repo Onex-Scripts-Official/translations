@@ -1,0 +1,17 @@
+{
+  "_meta": {
+    "language": "Persian",
+    "code": "fa"
+  },
+  "SCOREBOARD_JOB_STATUS_SECTION_HEADER": "وضعیت شغل",
+  "SCOREBOARD_JOB_STATUS_SECTION_SUB_HEADER": "مشاهده کارکنان فعال برای هر دسته شغلی",
+  "SCOREBOARD_ACTIVITY_SECTION_HEADER": "فعالیت‌ها",
+  "SCOREBOARD_ACTIVITY_SECTION_SUB_HEADER": "مرور همه فعالیت‌های در دسترس فعلی",
+  "SCOREBOARD_PLAYERLIST_SUB_HEADER": "مشاهده همه بازیکنان سرور و لیست خروج",
+  "SCOREBOARD_PLAYERLIST_PLAYERS_BTN_TXT": "بازیکنان",
+  "SCOREBOARD_PLAYERLIST_DROP_LIST_BTN_TXT": "لیست خروج",
+  "SCOREBOARD_PLAYERLIST_ID_TXT": "شناسه",
+  "SCOREBOARD_PLAYERLIST_PLAYTIME_TXT": "زمان بازی",
+  "SCOREBOARD_PLAYERLIST_BOTTOM_PLAYERS_PLAYING_TXT": "بازیکنان در حال بازی",
+  "SCOREBOARD_PLAYERLIST_DROPTIME_TXT": "زمان خروج"
+}

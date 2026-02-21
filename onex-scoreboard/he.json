@@ -1,0 +1,17 @@
+{
+  "_meta": {
+    "language": "Hebrew",
+    "code": "he"
+  },
+  "SCOREBOARD_JOB_STATUS_SECTION_HEADER": "סטטוס עבודה",
+  "SCOREBOARD_JOB_STATUS_SECTION_SUB_HEADER": "צפה בצוות פעיל עבור כל קטגוריית עבודה",
+  "SCOREBOARD_ACTIVITY_SECTION_HEADER": "פעילויות",
+  "SCOREBOARD_ACTIVITY_SECTION_SUB_HEADER": "עיין בכל הפעילויות הזמינות כעת",
+  "SCOREBOARD_PLAYERLIST_SUB_HEADER": "צפה בכל שחקני השרת ורשימת העוזבים",
+  "SCOREBOARD_PLAYERLIST_PLAYERS_BTN_TXT": "שחקנים",
+  "SCOREBOARD_PLAYERLIST_DROP_LIST_BTN_TXT": "רשימת עוזבים",
+  "SCOREBOARD_PLAYERLIST_ID_TXT": "מזהה",
+  "SCOREBOARD_PLAYERLIST_PLAYTIME_TXT": "זמן משחק",
+  "SCOREBOARD_PLAYERLIST_BOTTOM_PLAYERS_PLAYING_TXT": "שחקנים משחקים",
+  "SCOREBOARD_PLAYERLIST_DROPTIME_TXT": "זמן עזיבה"
+}

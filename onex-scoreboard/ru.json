@@ -1,0 +1,17 @@
+{
+  "_meta": {
+    "language": "Russian",
+    "code": "ru"
+  },
+  "SCOREBOARD_JOB_STATUS_SECTION_HEADER": "СТАТУС РАБОТЫ",
+  "SCOREBOARD_JOB_STATUS_SECTION_SUB_HEADER": "ПРОСМОТР АКТИВНОГО ПЕРСОНАЛА ДЛЯ КАЖДОЙ КАТЕГОРИИ РАБОТЫ",
+  "SCOREBOARD_ACTIVITY_SECTION_HEADER": "ДЕЯТЕЛЬНОСТИ",
+  "SCOREBOARD_ACTIVITY_SECTION_SUB_HEADER": "ПРОСМОТР ВСЕХ ДОСТУПНЫХ В НАСТОЯЩЕЕ ВРЕМЯ ДЕЯТЕЛЬНОСТЕЙ",
+  "SCOREBOARD_PLAYERLIST_SUB_HEADER": "ПРОСМОТР ВСЕХ ИГРОКОВ СЕРВЕРА И СПИСОК ВЫШЕДШИХ",
+  "SCOREBOARD_PLAYERLIST_PLAYERS_BTN_TXT": "ИГРОКИ",
+  "SCOREBOARD_PLAYERLIST_DROP_LIST_BTN_TXT": "СПИСОК ВЫШЕДШИХ",
+  "SCOREBOARD_PLAYERLIST_ID_TXT": "ID",
+  "SCOREBOARD_PLAYERLIST_PLAYTIME_TXT": "ВРЕМЯ ИГРЫ",
+  "SCOREBOARD_PLAYERLIST_BOTTOM_PLAYERS_PLAYING_TXT": "ИГРАЮЩИЕ ИГРОКИ",
+  "SCOREBOARD_PLAYERLIST_DROPTIME_TXT": "ВРЕМЯ ВЫХОДА"
+}

@@ -1,0 +1,104 @@
+{
+  "_meta": {
+    "language": "العربية",
+    "code": "ar",
+    "direction": "rtl",
+    "completeness": 100
+  },
+  "ui": {
+    "menu": {
+      "title": "قائمة التعبيرات",
+      "search_placeholder": "البحث عن تعبير",
+      "favourite": "المفضلة",
+      "exit": "خروج",
+      "favourite_emotes": "التعبيرات المفضلة",
+      "empty": "فارغ",
+      "default": "افتراضي"
+    },
+    "buttons": {
+      "enable_preview": "تفعيل معاينة التعبيرات",
+      "disable_preview": "تعطيل معاينة التعبيرات (الأداء)",
+      "reset_walk": "إعادة تعيين أسلوب المشي",
+      "reset_expression": "إعادة تعيين التعبير",
+      "pause_animation": "إيقاف مؤقت للحركة",
+      "accept": "قبول",
+      "cancel": "إلغاء",
+      "accept_prev": "قبول",
+      "cancel_prev": "إلغاء",
+      "enable_emotes_preview": "تفعيل معاينة التعبيرات",
+      "disable_emotes_preview": "تعطيل معاينة التعبيرات (الأداء)"
+    },
+    "controls": {
+      "movement": "الحركة",
+      "loop_animation": "تكرار الحركة",
+      "upper_body_anim": "حركة الجزء العلوي",
+      "rotation": "الدوران",
+      "movement_prev": "الحركة",
+      "height_increase": "الارتفاع +",
+      "height_decrease": "الارتفاع -",
+      "height_up": "الارتفاع +",
+      "height_down": "الارتفاع -"
+    },
+    "categories": {
+      "all_emotes": "كل التعبيرات",
+      "animal_emotes": "تعبيرات الحيوانات",
+      "consumable": "قابل للاستهلاك",
+      "dance_emotes": "تعبيرات الرقص",
+      "dances": "الرقصات",
+      "emotes": "التعبيرات",
+      "exits": "المخارج",
+      "expressions": "التعابير",
+      "general": "عام",
+      "prop_emotes": "تعبيرات مع أشياء",
+      "scenarios": "سيناريوهات",
+      "shared_dances": "رقصات مشتركة",
+      "shared_emotes": "تعبيرات مشتركة",
+      "walk_styles": "أساليب المشي"
+    },
+    "request": {
+      "from": "من"
+    }
+  },
+  "notifications": {
+    "gameplay": {
+      "cannot_play": "انتظر! لا يمكنك القيام بأي إجراء الآن يا صديقي.",
+      "cannot_cancel": "مهلاً! لا يمكن إلغاء هذا التعبير في الوقت الحالي.",
+      "animal_error": "ماذا؟! هل تعتقد أنك نوع من الحيوانات؟ كن واقعياً!",
+      "empty_slot": "لا شيء هنا! هذه الخانة السريعة فارغة.",
+      "request_rejected": "مرفوض! إنهم غير مهتمين بما تقدمه.",
+      "driving_error": "ليس أثناء القيادة! أبق يديك على عجلة القيادة.",
+      "no_players_nearby": "لا يوجد لاعبون قريبون",
+      "not_valid_emote": "هذا ليس تعبيراً صالحاً يا صديقي.",
+      "emote_cancelled": "تم إلغاء التعبير",
+      "invalid_emote": "يرجى تقديم اسم تعبير صالح.",
+      "no_nearby_player": "لم يتم العثور على لاعب قريب.",
+      "invalid_position": "موقع غير صالح - لا يمكن الوضع هنا.",
+      "too_far": "بعيد جداً عن موقع الوضع."
+    },
+    "interruption": {
+      "restored": "العودة للعمل! استمرار من حيث توقفت.",
+      "cancelled_damage": "آه! هذا مؤلم - تم مقاطعة التعبير!",
+      "cancelled_collision": "انتبه! تم دفعك وفقدت التركيز.",
+      "cancelled_explosion": "يا إلهي! هذا الانفجار أخافني!",
+      "cancelled_gunshots": "إطلاق نار! اختبئ - تم إلغاء التعبير!",
+      "cancelled_crash": "حادث سيارة! ذلك الاصطدام القوي كسر تركيزك!",
+      "cancelled_general": "مقاطعة! شيء ما جعلك تتوقف."
+    },
+    "system": {
+      "dead": "لا يمكنك استخدام التعبيرات وأنت ميت!",
+      "in_combat": "لا يمكنك استخدام التعبيرات أثناء القتال!",
+      "ragdolled": "لا يمكنك استخدام التعبيرات وأنت ساقط!",
+      "getting_up": "أنت تنهض الآن، يرجى الانتظار!",
+      "swimming": "لا يمكنك استخدام التعبيرات أثناء السباحة!",
+      "cancelled": "تم إلغاء التعبير!",
+      "reset_walk": "تم إعادة تعيين أسلوب المشي!",
+      "reset_expression": "تم إعادة تعيين التعبير!"
+    },
+    "validation": {
+      "invalid_emote": "ليس تعبيراً!",
+      "invalid_expression": "ليس تعبيراً للوجه!",
+      "invalid_walkstyle": "ليس أسلوب مشي!",
+      "invalid_animal": "ليس تعبير حيوان!"
+    }
+  }
+}

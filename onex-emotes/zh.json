@@ -1,0 +1,104 @@
+{
+  "_meta": {
+    "language": "中文",
+    "code": "zh",
+    "direction": "ltr",
+    "completeness": 100
+  },
+  "ui": {
+    "menu": {
+      "title": "表情菜单",
+      "search_placeholder": "搜索表情",
+      "favourite": "收藏",
+      "exit": "退出",
+      "favourite_emotes": "收藏表情",
+      "empty": "空",
+      "default": "默认"
+    },
+    "buttons": {
+      "enable_preview": "启用表情预览",
+      "disable_preview": "禁用预览（性能）",
+      "reset_walk": "重置行走风格",
+      "reset_expression": "重置表情",
+      "pause_animation": "暂停动画",
+      "accept": "接受",
+      "cancel": "取消",
+      "accept_prev": "接受",
+      "cancel_prev": "取消",
+      "enable_emotes_preview": "启用预览",
+      "disable_emotes_preview": "禁用预览（性能）"
+    },
+    "controls": {
+      "movement": "移动",
+      "loop_animation": "循环动画",
+      "upper_body_anim": "上身动画",
+      "rotation": "旋转",
+      "movement_prev": "移动",
+      "height_increase": "高度 +",
+      "height_decrease": "高度 -",
+      "height_up": "高度 +",
+      "height_down": "高度 -"
+    },
+    "categories": {
+      "all_emotes": "所有表情",
+      "animal_emotes": "动物表情",
+      "consumable": "消耗品",
+      "dance_emotes": "舞蹈表情",
+      "dances": "舞蹈",
+      "emotes": "表情",
+      "exits": "退出",
+      "expressions": "面部表情",
+      "general": "通用",
+      "prop_emotes": "道具表情",
+      "scenarios": "场景",
+      "shared_dances": "共享舞蹈",
+      "shared_emotes": "共享表情",
+      "walk_styles": "行走风格"
+    },
+    "request": {
+      "from": "来自"
+    }
+  },
+  "notifications": {
+    "gameplay": {
+      "cannot_play": "等等！你现在不能执行任何动作，伙计。",
+      "cannot_cancel": "慢点！现在不能取消那个表情，老大。",
+      "animal_error": "搞什么！你以为你是什么动物吗？现实点！",
+      "empty_slot": "这里什么都没有！这个快捷栏空得像鬼城一样。",
+      "request_rejected": "拒绝！他们对你提供的不感兴趣。",
+      "driving_error": "开车时不行！手放在方向盘上，老兄。",
+      "no_players_nearby": "附近没有玩家",
+      "not_valid_emote": "那不是一个有效的表情，我的朋友。",
+      "emote_cancelled": "表情已取消",
+      "invalid_emote": "请提供有效的表情名称。",
+      "no_nearby_player": "附近没有找到玩家。",
+      "invalid_position": "无效位置 - 无法在此放置。",
+      "too_far": "距离放置位置太远。"
+    },
+    "interruption": {
+      "restored": "恢复行动！从你停下的地方继续。",
+      "cancelled_damage": "哎哟！那真的很痛 - 表情被打断了！",
+      "cancelled_collision": "小心！被撞到并失去了注意力。",
+      "cancelled_explosion": "我的天！那个爆炸把我吓死了！",
+      "cancelled_gunshots": "枪声！趴下 - 表情取消！",
+      "cancelled_crash": "车祸！那个巨大的碰撞打破了你的专注！",
+      "cancelled_general": "被打断！某些东西让你停下来了。"
+    },
+    "system": {
+      "dead": "你死亡时不能使用表情！",
+      "in_combat": "你在战斗中不能使用表情！",
+      "ragdolled": "你在布娃娃状态时不能使用表情！",
+      "getting_up": "你正在起身，请稍候！",
+      "swimming": "你游泳时不能使用表情！",
+      "cancelled": "表情已取消！",
+      "reset_walk": "行走风格已重置！",
+      "reset_expression": "面部表情已重置！"
+    },
+    "validation": {
+      "invalid_emote": "不是一个表情！",
+      "invalid_expression": "不是一个面部表情！",
+      "invalid_walkstyle": "不是一个行走风格！",
+      "invalid_animal": "不是一个动物表情！"
+    }
+  }
+}

@@ -1,0 +1,120 @@
+{
+  "_meta": {
+    "language": "English",
+    "code": "en",
+    "direction": "ltr",
+    "completeness": 100
+  },
+  "ui": {
+    "menu": {
+      "title": "EMOTE MENU",
+      "search_placeholder": "SEARCH EMOTE",
+      "favourite": "FAVOURITE",
+      "exit": "EXIT",
+      "favourite_emotes": "FAVOURITE EMOTES",
+      "empty": "EMPTY",
+      "default": "DEFAULT"
+    },
+    "buttons": {
+      "enable_preview": "ENABLE EMOTE PREVIEWS",
+      "disable_preview": "DISABLE EMOTE PREVIEWS (PERFORMANCE)",
+      "reset_walk": "Reset Walks Style",
+      "reset_expression": "Reset Expression",
+      "pause_animation": "Pause Animation",
+      "accept": "ACCEPT",
+      "cancel": "CANCEL",
+      "accept_prev": "ACCEPT",
+      "cancel_prev": "CANCEL",
+      "enable_emotes_preview": "ENABLE EMOTE PREVIEWS",
+      "disable_emotes_preview": "DISABLE EMOTE PREVIEWS (PERFORMANCE)",
+      "theme_settings": "Theme Settings"
+    },
+    "controls": {
+      "movement": "Movement",
+      "loop_animation": "Loop Animation",
+      "upper_body_anim": "Upper Body Anim",
+      "rotation": "ROTATION",
+      "movement_prev": "MOVEMENT",
+      "height_increase": "HEIGHT +",
+      "height_decrease": "HEIGHT -",
+      "height_up": "HEIGHT +",
+      "height_down": "HEIGHT -"
+    },
+    "categories": {
+      "all_emotes": "ALL EMOTES",
+      "animal_emotes": "ANIMAL EMOTES",
+      "consumable": "CONSUMABLE",
+      "dance_emotes": "DANCE EMOTES",
+      "dances": "DANCES",
+      "emotes": "EMOTES",
+      "exits": "EXITS",
+      "expressions": "EXPRESSIONS",
+      "general": "GENERAL",
+      "prop_emotes": "PROP EMOTES",
+      "scenarios": "SCENARIOS",
+      "shared_dances": "SHARED DANCES",
+      "shared_emotes": "SHARED EMOTES",
+      "walk_styles": "WALK STYLES"
+    },
+    "request": {
+      "from": "FROM"
+    },
+    "settings": {
+      "title": "Theme Settings",
+      "current_color": "Current Color",
+      "hex_code": "Custom Color",
+      "reset": "Reset",
+      "save": "Save",
+      "disabled_notice": "Theme customization is disabled by server admin.",
+      "theme_presets": "Theme Presets",
+      "color_palette": "Colors",
+      "advanced": "Advanced",
+      "category_bg": "Category Background",
+      "action_hover": "Action Bar Hover",
+      "emote_hover": "Emote Hover",
+      "quick_emote": "Quick Emote"
+    }
+  },
+  "notifications": {
+    "gameplay": {
+      "cannot_play": "Hold up! You can't perform any actions right now, partner.",
+      "cannot_cancel": "Easy there! Can't cancel that emote at the moment, chief.",
+      "animal_error": "What the hell?! You think you're some kind of animal? Get real!",
+      "empty_slot": "Nothing here! This quick slot is empty as a ghost town.",
+      "request_rejected": "Denied! They ain't interested in what you're offering.",
+      "driving_error": "Not while driving! Keep your hands on the wheel, hotshot.",
+      "no_players_nearby": "No players nearby",
+      "not_valid_emote": "That's not a valid emote, my friend.",
+      "emote_cancelled": "The emote was cancelled",
+      "invalid_emote": "Please provide a valid emote name.",
+      "no_nearby_player": "No nearby player found.",
+      "invalid_position": "Invalid position - cannot place here.",
+      "too_far": "Too far from placement location."
+    },
+    "interruption": {
+      "restored": "Back in action! Continuing where you left off.",
+      "cancelled_damage": "Ouch! That hurt like hell - emote interrupted!",
+      "cancelled_collision": "Watch it! Got knocked around and lost focus.",
+      "cancelled_explosion": "Holy shit! That explosion scared the hell out of me!",
+      "cancelled_gunshots": "Gunfire! Hit the deck - emote cancelled!",
+      "cancelled_crash": "Car crash! That loud crash broke your concentration!",
+      "cancelled_general": "Interrupted! Something made you stop what you were doing."
+    },
+    "system": {
+      "dead": "You can't use emotes while dead!",
+      "in_combat": "You can't use emotes while in combat!",
+      "ragdolled": "You can't use emotes while ragdolled!",
+      "getting_up": "You're currently getting up, please wait!",
+      "swimming": "You can't use emotes while swimming!",
+      "cancelled": "Canceled Emote!",
+      "reset_walk": "Walk style has been reset!",
+      "reset_expression": "Expression has been reset!"
+    },
+    "validation": {
+      "invalid_emote": "is not an emote!",
+      "invalid_expression": "is not an expression!",
+      "invalid_walkstyle": "is not a walkstyle!",
+      "invalid_animal": "is not an animal emote!"
+    }
+  }
+}

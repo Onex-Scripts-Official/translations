@@ -1,0 +1,104 @@
+{
+  "_meta": {
+    "language": "Suomi",
+    "code": "fi",
+    "direction": "ltr",
+    "completeness": 100
+  },
+  "ui": {
+    "menu": {
+      "title": "EMOTE VALIKKO",
+      "search_placeholder": "ETSI EMOTEA",
+      "favourite": "SUOSIKKI",
+      "exit": "POISTU",
+      "favourite_emotes": "SUOSIKKI EMOTET",
+      "empty": "TYHJÄ",
+      "default": "OLETUS"
+    },
+    "buttons": {
+      "enable_preview": "OTA EMOTE ESIKATSELUT KÄYTTÖÖN",
+      "disable_preview": "POISTA ESIKATSELUT (SUORITUSKYKY)",
+      "reset_walk": "Nollaa kävelytyyli",
+      "reset_expression": "Nollaa ilme",
+      "pause_animation": "Pysäytä animaatio",
+      "accept": "HYVÄKSY",
+      "cancel": "PERUUTA",
+      "accept_prev": "HYVÄKSY",
+      "cancel_prev": "PERUUTA",
+      "enable_emotes_preview": "OTA ESIKATSELUT KÄYTTÖÖN",
+      "disable_emotes_preview": "POISTA ESIKATSELUT (SUORITUSKYKY)"
+    },
+    "controls": {
+      "movement": "Liike",
+      "loop_animation": "Toista animaatio",
+      "upper_body_anim": "Ylävartalon anim",
+      "rotation": "KIERTO",
+      "movement_prev": "LIIKE",
+      "height_increase": "KORKEUS +",
+      "height_decrease": "KORKEUS -",
+      "height_up": "KORKEUS +",
+      "height_down": "KORKEUS -"
+    },
+    "categories": {
+      "all_emotes": "KAIKKI EMOTET",
+      "animal_emotes": "ELÄIN EMOTET",
+      "consumable": "KULUTUSTUOTTEET",
+      "dance_emotes": "TANSSI EMOTET",
+      "dances": "TANSSIT",
+      "emotes": "EMOTET",
+      "exits": "POISTUMISET",
+      "expressions": "ILMEET",
+      "general": "YLEISET",
+      "prop_emotes": "TARVIKE EMOTET",
+      "scenarios": "SKENAARIOT",
+      "shared_dances": "JAETUT TANSSIT",
+      "shared_emotes": "JAETUT EMOTET",
+      "walk_styles": "KÄVELYTYYLIT"
+    },
+    "request": {
+      "from": "LÄHETTÄJÄ"
+    }
+  },
+  "notifications": {
+    "gameplay": {
+      "cannot_play": "Odota! Et voi suorittaa mitään toimintoja juuri nyt, kumppani.",
+      "cannot_cancel": "Rauhallisesti! Ei voi peruuttaa tuota emotea tällä hetkellä, pomo.",
+      "animal_error": "Mitä helvettiä?! Luuletko olevasi jonkinlainen eläin? Ole realistinen!",
+      "empty_slot": "Ei mitään täällä! Tämä pikapaikka on tyhjä kuin aavekaupunki.",
+      "request_rejected": "Hylätty! He eivät ole kiinnostuneita tarjouksestasi.",
+      "driving_error": "Ei ajon aikana! Pidä kädet ratissa, hotshot.",
+      "no_players_nearby": "Ei pelaajia lähettyvillä",
+      "not_valid_emote": "Tuo ei ole kelvollinen emote, ystäväni.",
+      "emote_cancelled": "Emote peruutettiin",
+      "invalid_emote": "Anna kelvollinen emoten nimi.",
+      "no_nearby_player": "Lähistöltä ei löytynyt pelaajaa.",
+      "invalid_position": "Virheellinen sijainti - ei voida sijoittaa tähän.",
+      "too_far": "Liian kaukana sijoituspaikasta."
+    },
+    "interruption": {
+      "restored": "Takaisin toimintaan! Jatketaan siitä mihin jäit.",
+      "cancelled_damage": "Aut! Se sattui helvetisti - emote keskeytetty!",
+      "cancelled_collision": "Varo! Sait iskun ja menetit keskittymisen.",
+      "cancelled_explosion": "Herra jestas! Tuo räjähdys pelästytti minut hengiltä!",
+      "cancelled_gunshots": "Aseiden ääniä! Maahan - emote peruutettu!",
+      "cancelled_crash": "Auto-onnettomuus! Tuo kova kolari rikkoi keskittymisesi!",
+      "cancelled_general": "Keskeytetty! Jokin sai sinut pysähtymään."
+    },
+    "system": {
+      "dead": "Et voi käyttää emoteja ollessasi kuollut!",
+      "in_combat": "Et voi käyttää emoteja taistelun aikana!",
+      "ragdolled": "Et voi käyttää emoteja ragdoll-tilassa!",
+      "getting_up": "Olet parhaillaan nousemassa, odota!",
+      "swimming": "Et voi käyttää emoteja uiessasi!",
+      "cancelled": "Emote peruutettu!",
+      "reset_walk": "Kävelytyyli on nollattu!",
+      "reset_expression": "Ilme on nollattu!"
+    },
+    "validation": {
+      "invalid_emote": "ei ole emote!",
+      "invalid_expression": "ei ole ilme!",
+      "invalid_walkstyle": "ei ole kävelytyyli!",
+      "invalid_animal": "ei ole eläin emote!"
+    }
+  }
+}

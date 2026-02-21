@@ -1,0 +1,104 @@
+{
+  "_meta": {
+    "language": "Ελληνικά",
+    "code": "el",
+    "direction": "ltr",
+    "completeness": 100
+  },
+  "ui": {
+    "menu": {
+      "title": "ΜΕΝΟΥ EMOTES",
+      "search_placeholder": "ΑΝΑΖΗΤΗΣΗ EMOTE",
+      "favourite": "ΑΓΑΠΗΜΕΝΟ",
+      "exit": "ΕΞΟΔΟΣ",
+      "favourite_emotes": "ΑΓΑΠΗΜΕΝΑ EMOTES",
+      "empty": "ΚΕΝΟ",
+      "default": "ΠΡΟΕΠΙΛΟΓΗ"
+    },
+    "buttons": {
+      "enable_preview": "ΕΝΕΡΓΟΠΟΙΗΣΗ ΠΡΟΕΠΙΣΚΟΠΗΣΗΣ",
+      "disable_preview": "ΑΠΕΝΕΡΓΟΠΟΙΗΣΗ ΠΡΟΕΠΙΣΚΟΠΗΣΗΣ (ΑΠΟΔΟΣΗ)",
+      "reset_walk": "Επαναφορά στυλ βαδίσματος",
+      "reset_expression": "Επαναφορά έκφρασης",
+      "pause_animation": "Παύση κίνησης",
+      "accept": "ΑΠΟΔΟΧΗ",
+      "cancel": "ΑΚΥΡΩΣΗ",
+      "accept_prev": "ΑΠΟΔΟΧΗ",
+      "cancel_prev": "ΑΚΥΡΩΣΗ",
+      "enable_emotes_preview": "ΕΝΕΡΓΟΠΟΙΗΣΗ ΠΡΟΕΠΙΣΚΟΠΗΣΗΣ",
+      "disable_emotes_preview": "ΑΠΕΝΕΡΓΟΠΟΙΗΣΗ ΠΡΟΕΠΙΣΚΟΠΗΣΗΣ (ΑΠΟΔΟΣΗ)"
+    },
+    "controls": {
+      "movement": "Κίνηση",
+      "loop_animation": "Επανάληψη κίνησης",
+      "upper_body_anim": "Κίνηση άνω σώματος",
+      "rotation": "ΠΕΡΙΣΤΡΟΦΗ",
+      "movement_prev": "ΚΙΝΗΣΗ",
+      "height_increase": "ΥΨΟΣ +",
+      "height_decrease": "ΥΨΟΣ -",
+      "height_up": "ΥΨΟΣ +",
+      "height_down": "ΥΨΟΣ -"
+    },
+    "categories": {
+      "all_emotes": "ΟΛΑ ΤΑ EMOTES",
+      "animal_emotes": "EMOTES ΖΩΩΝ",
+      "consumable": "ΑΝΑΛΩΣΙΜΑ",
+      "dance_emotes": "EMOTES ΧΟΡΟΥ",
+      "dances": "ΧΟΡΟΙ",
+      "emotes": "EMOTES",
+      "exits": "ΕΞΟΔΟΙ",
+      "expressions": "ΕΚΦΡΑΣΕΙΣ",
+      "general": "ΓΕΝΙΚΑ",
+      "prop_emotes": "EMOTES ΜΕ ΑΝΤΙΚΕΙΜΕΝΑ",
+      "scenarios": "ΣΕΝΑΡΙΑ",
+      "shared_dances": "ΚΟΙΝΟΙ ΧΟΡΟΙ",
+      "shared_emotes": "ΚΟΙΝΑ EMOTES",
+      "walk_styles": "ΣΤΥΛ ΒΑΔΙΣΜΑΤΟΣ"
+    },
+    "request": {
+      "from": "ΑΠΟ"
+    }
+  },
+  "notifications": {
+    "gameplay": {
+      "cannot_play": "Περίμενε! Δεν μπορείς να κάνεις καμία ενέργεια αυτή τη στιγμή, φίλε.",
+      "cannot_cancel": "Ήρεμα! Δεν μπορεί να ακυρωθεί αυτό το emote αυτή τη στιγμή, αφεντικό.",
+      "animal_error": "Τι στο διάολο?! Νομίζεις ότι είσαι κάποιο ζώο? Γίνε ρεαλιστής!",
+      "empty_slot": "Τίποτα εδώ! Αυτή η γρήγορη υποδοχή είναι άδεια σαν πόλη φάντασμα.",
+      "request_rejected": "Απορρίφθηκε! Δεν ενδιαφέρονται για αυτό που προσφέρεις.",
+      "driving_error": "Όχι ενώ οδηγείς! Κράτα τα χέρια σου στο τιμόνι, πρωταθλητή.",
+      "no_players_nearby": "Δεν υπάρχουν παίκτες κοντά",
+      "not_valid_emote": "Αυτό δεν είναι έγκυρο emote, φίλε μου.",
+      "emote_cancelled": "Το emote ακυρώθηκε",
+      "invalid_emote": "Παρακαλώ δώστε ένα έγκυρο όνομα emote.",
+      "no_nearby_player": "Δεν βρέθηκε παίκτης κοντά.",
+      "invalid_position": "Μη έγκυρη θέση - δεν μπορεί να τοποθετηθεί εδώ.",
+      "too_far": "Πολύ μακριά από τη θέση τοποθέτησης."
+    },
+    "interruption": {
+      "restored": "Επιστροφή στη δράση! Συνέχιση από όπου σταμάτησες.",
+      "cancelled_damage": "Άου! Αυτό πόνεσε σαν κόλαση - emote διακόπηκε!",
+      "cancelled_collision": "Πρόσεχε! Χτυπήθηκες και έχασες την εστίαση.",
+      "cancelled_explosion": "Αγία μου! Αυτή η έκρηξη με τρόμαξε θανάσιμα!",
+      "cancelled_gunshots": "Πυροβολισμοί! Κάτω - emote ακυρώθηκε!",
+      "cancelled_crash": "Ατύχημα με αυτοκίνητο! Αυτό το δυνατό τράκαρισμα έσπασε τη συγκέντρωσή σου!",
+      "cancelled_general": "Διακόπηκε! Κάτι σε έκανε να σταματήσεις."
+    },
+    "system": {
+      "dead": "Δεν μπορείς να χρησιμοποιήσεις emotes ενώ είσαι νεκρός!",
+      "in_combat": "Δεν μπορείς να χρησιμοποιήσεις emotes ενώ είσαι σε μάχη!",
+      "ragdolled": "Δεν μπορείς να χρησιμοποιήσεις emotes ενώ είσαι ragdolled!",
+      "getting_up": "Αυτή τη στιγμή σηκώνεσαι, παρακαλώ περίμενε!",
+      "swimming": "Δεν μπορείς να χρησιμοποιήσεις emotes ενώ κολυμπάς!",
+      "cancelled": "Ακυρώθηκε το Emote!",
+      "reset_walk": "Το στυλ βαδίσματος επαναφέρθηκε!",
+      "reset_expression": "Η έκφραση επαναφέρθηκε!"
+    },
+    "validation": {
+      "invalid_emote": "δεν είναι emote!",
+      "invalid_expression": "δεν είναι έκφραση!",
+      "invalid_walkstyle": "δεν είναι στυλ βαδίσματος!",
+      "invalid_animal": "δεν είναι emote ζώου!"
+    }
+  }
+}

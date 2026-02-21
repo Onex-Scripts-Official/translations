@@ -1,0 +1,104 @@
+{
+  "_meta": {
+    "language": "Català",
+    "code": "ca",
+    "direction": "ltr",
+    "completeness": 100
+  },
+  "ui": {
+    "menu": {
+      "title": "MENÚ D'EMOTES",
+      "search_placeholder": "CERCAR EMOTE",
+      "favourite": "FAVORIT",
+      "exit": "SORTIR",
+      "favourite_emotes": "EMOTES FAVORITS",
+      "empty": "BUIT",
+      "default": "PER DEFECTE"
+    },
+    "buttons": {
+      "enable_preview": "ACTIVAR PREVISUALITZACIONS",
+      "disable_preview": "DESACTIVAR PREVISUALITZACIONS (RENDIMENT)",
+      "reset_walk": "Restablir estil de caminar",
+      "reset_expression": "Restablir expressió",
+      "pause_animation": "Pausar animació",
+      "accept": "ACCEPTAR",
+      "cancel": "CANCEL·LAR",
+      "accept_prev": "ACCEPTAR",
+      "cancel_prev": "CANCEL·LAR",
+      "enable_emotes_preview": "ACTIVAR PREVISUALITZACIONS",
+      "disable_emotes_preview": "DESACTIVAR PREVISUALITZACIONS (RENDIMENT)"
+    },
+    "controls": {
+      "movement": "Moviment",
+      "loop_animation": "Repetir animació",
+      "upper_body_anim": "Anim part superior",
+      "rotation": "ROTACIÓ",
+      "movement_prev": "MOVIMENT",
+      "height_increase": "ALÇADA +",
+      "height_decrease": "ALÇADA -",
+      "height_up": "ALÇADA +",
+      "height_down": "ALÇADA -"
+    },
+    "categories": {
+      "all_emotes": "TOTS ELS EMOTES",
+      "animal_emotes": "EMOTES D'ANIMALS",
+      "consumable": "CONSUMIBLE",
+      "dance_emotes": "EMOTES DE BALL",
+      "dances": "BALLS",
+      "emotes": "EMOTES",
+      "exits": "SORTIDES",
+      "expressions": "EXPRESSIONS",
+      "general": "GENERAL",
+      "prop_emotes": "EMOTES AMB OBJECTES",
+      "scenarios": "ESCENARIS",
+      "shared_dances": "BALLS COMPARTITS",
+      "shared_emotes": "EMOTES COMPARTITS",
+      "walk_styles": "ESTILS DE CAMINAR"
+    },
+    "request": {
+      "from": "DE"
+    }
+  },
+  "notifications": {
+    "gameplay": {
+      "cannot_play": "Espera! No pots fer cap acció ara mateix, company.",
+      "cannot_cancel": "Tranquil! No pots cancel·lar aquest emote en aquest moment, cap.",
+      "animal_error": "Què dimonis?! Creus que ets algun tipus d'animal? Sigues realista!",
+      "empty_slot": "Res aquí! Aquest espai ràpid està buit com un poble fantasma.",
+      "request_rejected": "Denegat! No estan interessats en el que ofereixes.",
+      "driving_error": "No mentre condueixes! Mantén les mans al volant, campió.",
+      "no_players_nearby": "No hi ha jugadors propers",
+      "not_valid_emote": "Això no és un emote vàlid, amic meu.",
+      "emote_cancelled": "L'emote ha estat cancel·lat",
+      "invalid_emote": "Si us plau, proporciona un nom d'emote vàlid.",
+      "no_nearby_player": "No s'ha trobat cap jugador a prop.",
+      "invalid_position": "Posició no vàlida - no es pot col·locar aquí.",
+      "too_far": "Massa lluny del lloc de col·locació."
+    },
+    "interruption": {
+      "restored": "Tornem a l'acció! Continuant on ho vas deixar.",
+      "cancelled_damage": "Au! Això va fer mal com l'infern - emote interromput!",
+      "cancelled_collision": "Compte! T'han colpejat i has perdut la concentració.",
+      "cancelled_explosion": "Mare meva! Aquesta explosió m'ha espantat molt!",
+      "cancelled_gunshots": "Trets! A terra - emote cancel·lat!",
+      "cancelled_crash": "Accident de cotxe! Aquest fort impacte ha trencat la teva concentració!",
+      "cancelled_general": "Interromput! Alguna cosa t'ha fet parar."
+    },
+    "system": {
+      "dead": "No pots utilitzar emotes mentre estàs mort!",
+      "in_combat": "No pots utilitzar emotes mentre estàs en combat!",
+      "ragdolled": "No pots utilitzar emotes mentre estàs caigut!",
+      "getting_up": "T'estàs aixecant, si us plau espera!",
+      "swimming": "No pots utilitzar emotes mentre nedes!",
+      "cancelled": "Emote cancel·lat!",
+      "reset_walk": "L'estil de caminar s'ha restablert!",
+      "reset_expression": "L'expressió s'ha restablert!"
+    },
+    "validation": {
+      "invalid_emote": "no és un emote!",
+      "invalid_expression": "no és una expressió!",
+      "invalid_walkstyle": "no és un estil de caminar!",
+      "invalid_animal": "no és un emote d'animal!"
+    }
+  }
+}
